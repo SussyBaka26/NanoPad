@@ -60,3 +60,4 @@ NanoPad is a terminal-based text editor inspired by nano. Written in C with unde
 5. RUN
     ```bash
         ./nanopad
+nice
