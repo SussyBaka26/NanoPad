@@ -7,8 +7,11 @@ NanoPad is a terminal-based text editor inspired by nano. Written in C with unde
 ### Prerequisites
 - Ensure you have GCC (GNU c cmpiler)
 - Make sure you have make installed(optional)
+- Ensure you have git installed
 
 ### Steps to Install
 1. Clone the repository:
     ```bash
-        https://github.com/Divakar-26/NanoPad
+        git clone https://github.com/Divakar-26/NanoPad
+2. Navigate to Directory 
+    cd NanoPad
